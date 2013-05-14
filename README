@@ -1,0 +1,4 @@
+xenzilla/memcached
+=========
+
+An all-PHP implementation of the PECL memcached extension
