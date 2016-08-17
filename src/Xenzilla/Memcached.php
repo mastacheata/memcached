@@ -29,8 +29,8 @@ namespace Xenzilla;
  * For build develop environment in windows using memcached.
  *
  * @package     memcached-client
- * @copyright   Copyright 2013-2014, Fwolf
- * @license     http://opensource.org/licenses/mit-license MIT
+ * @copyright   Benedikt Bauer <benedikt@xenzilla.de>
+ * @license     http://www.apache.org/licenses/LICENSE-2.0
  * @version     1.2.0
  */
 class Memcached{
